@@ -9,9 +9,9 @@ This app may interact with third-party APIs such as Facebook or Twitter to displ
 
 Any data accessed through third-party APIs is handled securely and only used for testing features or improving the functionality of this personal project. No data is used for commercial purposes.
 
-If you have any questions or concerns, feel free to contact me at: [your email here]
+If you have any questions or concerns, feel free to contact me at: a.khatib.facebook@gmail.com
 
-Last Updated: [Insert date]
+Last Updated: 18/03/2025
 
 
 ---
